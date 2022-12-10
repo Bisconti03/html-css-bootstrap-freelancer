@@ -1,0 +1,24 @@
+:root {
+    --blue-grey-color: #2c3e50;
+    --light-green-color: #1abc9c;
+    --lighter-blue-color : #3a546d;
+}
+
+
+.bg-blue-grey{
+    background-color: var(--blue-grey-color);
+}
+
+.bg-light-green{
+    background-color: var(--light-green-color);
+}
+
+.bg-lighter-blue {
+    background-color: var(--lighter-blue-color);
+}
+
+
+
+
+
+
